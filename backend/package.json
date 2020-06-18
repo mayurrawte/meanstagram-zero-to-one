@@ -1,0 +1,19 @@
+{
+  "name": "meanstagram-backend",
+  "version": "1.0.0",
+  "description": "This is an awesome server code using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meanstagram",
+    "meanstack",
+    "development"
+  ],
+  "author": "Mayur Rawte",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
